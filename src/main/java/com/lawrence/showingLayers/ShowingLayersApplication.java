@@ -1,0 +1,13 @@
+package com.lawrence.showingLayers;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ShowingLayersApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ShowingLayersApplication.class, args);
+	}
+
+}
